@@ -1,6 +1,8 @@
-## Hey 👋, This is Paulo César Moreira Nunes
+## Olá 👋, Esse sou eu: Paulo César M Nunes.
 [![Gmail Badge](https://img.shields.io/badge/-paulocnunes94@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:paulocnunes94@gmail.com)](mailto:paulocnunes94@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/paulocmnunes-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/paulocmnunes/)](https://www.linkedin.com/in/www.linkedin.com/in/paulocmnunes/) [![Github Badge](https://img.shields.io/badge/-PauloCnuness-grey?style=flat&logo=github&logoColor=white&link=https://github.com/PauloCnuness/)](https://www.github.com/PauloCnuness/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/PauloCnuness/)](https://github.com/PauloCnuness/) <p align='left'>Meu nome é Paulo e eu sou analista de dados. Fico muito feliz em ter você por aqui! :D
+[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/paulocmnunes-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/paulocmnunes/)](https://www.linkedin.com/in/www.linkedin.com/in/paulocmnunes/) [![Github Badge](https://img.shields.io/badge/-PauloCnuness-grey?style=flat&logo=github&logoColor=white&link=https://github.com/PauloCnuness/)](https://www.github.com/PauloCnuness/) 
+
+<p align='left'>Meu nome é Paulo e eu sou analista de dados. Fico muito feliz em ter você por aqui! :D
 
 Trabalho principalmente com Python e SQL para realizar análises exploratórias de dados, análises estatísticas aplicando testes de hipóteses, visualizações de dados e ETL.
 Na parte de visualização eu crio dashboards com Tableau e Power BI. 
