@@ -1,4 +1,6 @@
-## Olá 👋, Esse sou eu: Paulo César M Nunes.
+## Olá visitante 👋 
+## Aqui você encontrará um pouco sobre mim e meus projetos! 
+
 [![Gmail Badge](https://img.shields.io/badge/-paulocnunes94@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:paulocnunes94@gmail.com)](mailto:paulocnunes94@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/paulocmnunes-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/paulocmnunes/)](https://www.linkedin.com/in/www.linkedin.com/in/paulocmnunes/) [![Github Badge](https://img.shields.io/badge/-PauloCnuness-grey?style=flat&logo=github&logoColor=white&link=https://github.com/PauloCnuness/)](https://www.github.com/PauloCnuness/) 
 
